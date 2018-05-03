@@ -1,0 +1,16 @@
+Fix(socio): Se actualiza listado de socios(tourStatus, contractAvalaibility)
+Feat: Añadiendo seguridad listar clientes
+Merge Branch develop into Master
+Feat: Anotación de seguridad
+Agregar nueva notacion al sistema
+Feat: Anotación de seguridad Permisos 
+Corregir: Nueva anotacion de sistemistas
+Fix(plantillaEmail): corregir archivos adjuntos en e-mails
+Feat: Etiquetas de entidad Venta y Reservacion
+Feat: En consulta socios poner como edad máxima 99
+Fix: Corregir Registro de servicios de host
+lorem ipsum dolor sit a met
+Merge Branch develop into Master
+Feat: Agregar sanitización
+refactor: consulta socios en parámetro tourStatus 
+Fix: gitingore para ignorar documentación

@@ -1,0 +1,9 @@
+ git log --pretty 1.10..1.11.0
+
+ git log -pretty=format:"%h; author: %cn; date: %ci; subject:%s" 1.10..1.11.0
+
+  git log --pretty=format:"subject:%s" 1.10..1.11.0
+
+ git log --pretty=format:"%s" 1.10..1.11.0
+
+ git log --pretty=format:"%s" 1.10..1.11.0 > a.txt

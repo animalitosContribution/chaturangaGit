@@ -1,0 +1,1 @@
+require 'gchlog/Changelog.rb'
